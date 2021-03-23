@@ -15,9 +15,9 @@ A portfolio for all of Tyler's notable projects.
 
 
 ## 🎥 Live Website
-- [Tyler Portfolio](https://tylerholland.netlify.app/)
+- [Tyler's Portfolio](https://tylerholland.netlify.app/)
 
-- [Tyler Portfolio](https://tswivel.com/Tyler-Portfolio/)
+- [Tyler's Portfolio](https://tswivel.com/Tyler-Portfolio/)
 
 ## 🏁 Installation
 
