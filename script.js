@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [ " blockchain DApps", "fullstack development", "backend develpment", "learning"],
+        strings: [ " blockchain DApps", "fullstack development", "backend development", "learning"],
         typeSpeed: 40,
         backSpeed: 60,
         loop: true
